@@ -1,0 +1,5 @@
+C:\Users\AAA\Desktop\UVABc - IFR\POO\calculator\x64\Debug\calculator.vcxproj.AssemblyReference.cache
+C:\Users\AAA\Desktop\UVABc - IFR\POO\calculator\x64\Debug\calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\AAA\Desktop\UVABc - IFR\POO\calculator\x64\Debug\calculator.Form1.resources
+C:\Users\AAA\Desktop\UVABc - IFR\POO\calculator\x64\Debug\calculator.vcxproj.GenerateResource.cache
+C:\Users\AAA\Desktop\UVABc - IFR\POO\calculator\x64\Debug\calculator.exe
