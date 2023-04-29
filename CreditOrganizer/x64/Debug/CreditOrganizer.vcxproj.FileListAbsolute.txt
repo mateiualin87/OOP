@@ -1,0 +1,3 @@
+C:\Users\AAA\Desktop\UVABc - IFR\POO\CreditOrganizer\x64\Debug\CreditOrganizer.vcxproj.AssemblyReference.cache
+C:\Users\AAA\Desktop\UVABc - IFR\POO\CreditOrganizer\x64\Debug\CreditOrganizer.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\AAA\Desktop\UVABc - IFR\POO\CreditOrganizer\x64\Debug\CreditOrganizer.exe
